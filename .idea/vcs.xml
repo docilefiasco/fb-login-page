@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Calculator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/misc/ex2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/misc/ex3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/misc/imgpro" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/misc/machine-learning-ex1/ex1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/misc/main" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/misc/shapereg" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/misc/shru/docilefiasco.io" vcs="Git" />
+  </component>
+</project>
