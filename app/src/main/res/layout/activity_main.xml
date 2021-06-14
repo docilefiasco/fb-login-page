@@ -9,23 +9,21 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="0dp"
-        android:background="#FFFFFF"
         android:orientation="vertical"
+        android:background="#FFFFFF"
         app:layout_constraintBottom_toTopOf="@+id/linearLayout"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.0">
+        app:layout_constraintTop_toTopOf="parent">
 
         <ImageView
             android:layout_width="80dp"
             android:layout_height="0dp"
-            android:layout_gravity="center"
-            android:layout_margin="16dp"
             android:layout_weight="6"
-            android:contentDescription="TODO"
-            android:src="@drawable/fblogin" />
+            android:layout_margin="16dp"
+            android:src="@drawable/fblogin"
+            android:layout_gravity="center"
+            android:contentDescription="TODO" />
 
     </LinearLayout>
 
@@ -36,9 +34,9 @@
         android:orientation="vertical"
         android:layout_marginTop="10dp"
         android:background="#FFFFFF"
-        android:layout_marginBottom="20dp"
-        android:layout_marginStart="20dp"
-        android:layout_marginEnd="20dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent">
@@ -86,6 +84,7 @@
             android:text="Log in"
             android:textAllCaps="true"
             android:background="@drawable/btn"/>
+
         <LinearLayout
             android:orientation="horizontal"
             android:layout_marginTop="50dp"
